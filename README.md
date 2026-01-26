@@ -24,5 +24,3 @@ fields_of_interests:
 
 hobbies: ["Cinema", "Badminton", "Music", "Art", "Comedy"]
 ```
-![Snake animation]
-(https://github.com/shreeg25/shreeg25/blob/output/github-contribution-grid-snake.svg)
