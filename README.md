@@ -12,7 +12,6 @@ currently_living_in: Sri City, Chittoor, Andhra Pradesh
   [
     "BTech in CSE undergrad"
   ]
-company: Soulber
 
 fields_of_interests:
   [
