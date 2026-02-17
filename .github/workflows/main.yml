@@ -18,10 +18,10 @@ jobs:
             # 1. Standard Light Mode
             dist/github-contribution-grid-snake.svg
             
-            # 2. Custom Neon Dark Mode
-            # color_snake = Cyan (#00f2ff)
-            # color_dots = Dark BG -> Purple -> Pink -> Hot Pink
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00f2ff&color_dots=#161b22,#4b0082,#800080,#ff00ff,#ff69b4
+            # 2. Matrix Theme (Dark Mode)
+            # color_snake = White (#ffffff)
+            # color_dots = Dark BG -> Forest Green -> Matrix Green -> Neon Green
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffffff&color_dots=#161b22,#013220,#006400,#00cc00,#00ff00
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
