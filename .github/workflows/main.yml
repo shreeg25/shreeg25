@@ -10,15 +10,18 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: shreeg25
+          github_user_name: shreeg25 
           outputs: |
+            # 1. Standard Light Mode
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
+            
+            # 2. Custom Neon Dark Mode
+            # color_snake = Cyan (#00f2ff)
+            # color_dots = Dark BG -> Purple -> Pink -> Hot Pink
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00f2ff&color_dots=#161b22,#4b0082,#800080,#ff00ff,#ff69b4
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
