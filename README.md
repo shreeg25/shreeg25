@@ -1,4 +1,4 @@
-<h1>Hey Everyone!👋🏻</h1>
+<h1 align="center">Hey Everyone!👋🏻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=550&lines=CSE+Undergrad;Enthusiast+in+learning+new+things" />
