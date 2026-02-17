@@ -66,15 +66,16 @@ hobbies: ["Cinema", "Badminton", "Music", "Art", "Comedy"]
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreeg25label=Profile%20Views&color=blue&style=flat" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreeg25&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="shreeg25" />
+</div>
 
 <p align="center">
 	<i>Each day counts!</i>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shreeg25/shreeg25/output/github-contribution-grid-snake.svg"
-       alt="GitHub Contribution Snake" />
+<br/>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreeg25/shreeg25/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreeg25/shreeg25/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shreeg25/shreeg25/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
