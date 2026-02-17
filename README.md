@@ -67,6 +67,10 @@ hobbies: ["Cinema", "Badminton", "Music", "Art", "Comedy"]
 </table>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreeg25label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+<p align="center">
 	<i>Each day counts!</i>
 </p>
 
