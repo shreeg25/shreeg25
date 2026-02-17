@@ -67,7 +67,7 @@ hobbies: ["Cinema", "Badminton", "Music", "Art", "Comedy"]
 </table>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shreeg25&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="shreeg25" />
+  <img src="https://komarev.com/ghpvc/?username=shreeg25&label=Profile+Views&color=green&style=for-the-badge" alt="shreeg25" />
 </div>
 
 <p align="center">
