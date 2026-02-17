@@ -8,7 +8,7 @@
 ```yaml
 name: Shree Goswami
 currently_living_in: Sri City, Chittoor, Andhra Pradesh
-	education:
+education:
   [
     "BTech in CSE undergrad"
   ]
