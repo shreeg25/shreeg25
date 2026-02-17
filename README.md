@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20Everyone!!&reversal=false&textBg=false&fontAlignY=38&fontSize=100&animation=fadeIn"/>
-</p>
+<h1>Hey Everyone!👋🏻</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F7FFF&width=600&lines=CSE+Undergrad)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=550&lines=CSE+Undergrad;Enthusiast+in+learning+new+things" />
+</p>
 
 # 👩🏻‍💻 Little bit about me and my interests
 ```yaml
@@ -65,3 +65,12 @@ hobbies: ["Cinema", "Badminton", "Music", "Art", "Comedy"]
 
 </tr>
 </table>
+
+<p align="center">
+	<i>Each day counts!</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shreeg25/shreeg25/output/github-contribution-grid-snake.svg"
+       alt="GitHub Contribution Snake" />
+</p>
