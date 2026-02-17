@@ -10,7 +10,7 @@ name: Shree Goswami
 currently_living_in: Sri City, Chittoor, Andhra Pradesh
 education:
   [
-    "BTech in CSE undergrad"
+    "BTech in CSE"
   ]
 
 fields_of_interests:
