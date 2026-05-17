@@ -6,22 +6,14 @@
 
 # 👩🏻‍💻 Little bit about me and my interests
 ```yaml
-name: Shree Goswami
-currently_living_in: Sri City, Chittoor, Andhra Pradesh
-education:
-  [
-    "BTech in CSE"
-  ]
-
-fields_of_interests:
-  [
-    "Reasearching",
-    "AI"
-    "Machine Learning"
-    "Exploring Full-Stack Dev"
-  ]
-
-hobbies: ["Cinema", "Badminton", "Music", "Art", "Comedy"]
+profile = {
+    "name": "Shree Goswami",
+    "institute": "IIITs (CSE Undergrad)",
+    "focus": ["AI/ML Research", "6G Communications", "LLM Tooling"],
+    "currently_working_on": "RepoXray — AI-powered codebase doc generation",
+    "tools": ["Python", "PyTorch", "scikit-learn", "Streamlit", "Gemini API"],
+    "looking_for": ["Research collabs", "ML internships", "Open source contributions"],
+}
 ```
 
 <table>
@@ -34,10 +26,23 @@ hobbies: ["Cinema", "Badminton", "Music", "Art", "Comedy"]
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com)
 
-</td>	
+## 🧠 ML & AI Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+
+</td>
 <td valign="top" width="50%">
+	
+### 🔭 Currently working on
+- **RepoXray** — extending to support multi-repo analysis & GitHub Actions integration
+- **6G research** — SNN-based beam prediction for mmWave using DeepMIMO datasets
+- **Exploring** — RAG pipelines, fine-tuning small LLMs, agentic frameworks	
 
 ### 📫 Connect With Me
 [![Gmail(shreegoswami766@gmail.com](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreegoswami766@gmail.com)
