@@ -60,11 +60,11 @@ profile = {
 <table>
 <tr>
 
-<td width="50%">
+<td>
 <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=shreeg25&layout=compact&theme=dark" />
 </td>
 
-<td width="50%">
+<td>
 <img src="https://stats-github-readme.vercel.app/api?username=shreeg25&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 </td>
 
@@ -73,6 +73,9 @@ profile = {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shreeg25&label=Profile+Views&color=green&style=for-the-badge" alt="shreeg25" />
+</div>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shreeg25&theme=github-dark&border_radius=4.1&card_width=1000&card_height=200" alt="GitHub Streak" /></a>
 </div>
 
 <p align="center">
