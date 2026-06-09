@@ -79,8 +79,6 @@ profile = {
 </div>
 
 <p align="center">
-	<i>Each day counts!</i>
-<br/>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreeg25/shreeg25/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreeg25/shreeg25/output/github-contribution-grid-snake.svg">
